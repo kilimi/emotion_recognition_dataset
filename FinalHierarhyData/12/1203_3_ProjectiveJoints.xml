@@ -1,0 +1,6530 @@
+<skeletondata>
+	<frame no="630">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>213</y>
+			<z>2,749431</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>201</y>
+			<z>2,727829</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>297</x>
+			<y>136</y>
+			<z>2,629108</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>97</y>
+			<z>2,522144</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>154</y>
+			<z>2,670563</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>244</x>
+			<y>191</y>
+			<z>2,821127</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>222</y>
+			<z>2,973528</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>230</y>
+			<z>3,038346</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>154</y>
+			<z>2,701743</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,852801</z>
+		</joint>
+		<joint type="WristRight">
+			<x>334</x>
+			<y>229</y>
+			<z>2,969809</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,013263</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>229</y>
+			<z>2,76035</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,124315</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>293</x>
+			<y>382</y>
+			<z>3,338945</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>297</x>
+			<y>391</y>
+			<z>3,344224</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>228</y>
+			<z>2,780347</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118149</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,323985</z>
+		</joint>
+		<joint type="FootRight">
+			<x>292</x>
+			<y>390</y>
+			<z>3,338603</z>
+		</joint>
+	</frame>
+	<frame no="631">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>213</y>
+			<z>2,749359</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>201</y>
+			<z>2,727348</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>296</x>
+			<y>137</y>
+			<z>2,623215</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>97</y>
+			<z>2,508702</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>154</y>
+			<z>2,662235</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>244</x>
+			<y>191</y>
+			<z>2,818336</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>222</y>
+			<z>2,972731</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>230</y>
+			<z>3,037903</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>154</y>
+			<z>2,698247</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,851614</z>
+		</joint>
+		<joint type="WristRight">
+			<x>334</x>
+			<y>229</y>
+			<z>2,969912</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,013545</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>229</y>
+			<z>2,760374</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,124509</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338814</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>297</x>
+			<y>391</y>
+			<z>3,346528</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>228</y>
+			<z>2,780433</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118482</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,324307</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>389</y>
+			<z>3,343599</z>
+		</joint>
+	</frame>
+	<frame no="632">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>214</y>
+			<z>2,749076</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>201</y>
+			<z>2,725932</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>296</x>
+			<y>139</y>
+			<z>2,608813</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>100</y>
+			<z>2,473966</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>154</y>
+			<z>2,649962</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>245</x>
+			<y>191</y>
+			<z>2,789253</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>219</y>
+			<z>2,959537</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>228</y>
+			<z>3,029863</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>155</y>
+			<z>2,689777</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,848072</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>222</y>
+			<z>3,00428</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,045887</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>229</y>
+			<z>2,760449</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,124545</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338694</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>298</x>
+			<y>391</y>
+			<z>3,347686</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>228</y>
+			<z>2,78069</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118704</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,324539</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>389</y>
+			<z>3,346813</z>
+		</joint>
+	</frame>
+	<frame no="633">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>214</y>
+			<z>2,748562</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>202</y>
+			<z>2,724022</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>140</y>
+			<z>2,598747</z>
+		</joint>
+		<joint type="Head">
+			<x>297</x>
+			<y>102</y>
+			<z>2,455305</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>261</x>
+			<y>155</y>
+			<z>2,630411</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>191</y>
+			<z>2,784472</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>219</y>
+			<z>2,957309</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>227</y>
+			<z>3,027323</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>156</y>
+			<z>2,674109</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,843179</z>
+		</joint>
+		<joint type="WristRight">
+			<x>343</x>
+			<y>221</y>
+			<z>3,011075</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,051712</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>229</y>
+			<z>2,760581</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,124395</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,33859</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>299</x>
+			<y>391</y>
+			<z>3,347635</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>228</y>
+			<z>2,781123</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118665</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,324575</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>389</y>
+			<z>3,348041</z>
+		</joint>
+	</frame>
+	<frame no="634">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>214</y>
+			<z>2,747633</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>202</y>
+			<z>2,721185</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>141</y>
+			<z>2,585486</z>
+		</joint>
+		<joint type="Head">
+			<x>297</x>
+			<y>102</y>
+			<z>2,43313</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>156</y>
+			<z>2,616452</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>191</y>
+			<z>2,774367</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>218</y>
+			<z>2,951789</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>226</y>
+			<z>3,022199</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>157</y>
+			<z>2,653991</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,839648</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>222</y>
+			<z>3,004933</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,053001</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>229</y>
+			<z>2,760887</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123893</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338505</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>299</x>
+			<y>390</y>
+			<z>3,347163</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>229</y>
+			<z>2,78164</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,11848</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,324677</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>389</y>
+			<z>3,350158</z>
+		</joint>
+	</frame>
+	<frame no="635">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>215</y>
+			<z>2,745604</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>204</y>
+			<z>2,716363</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>143</y>
+			<z>2,567695</z>
+		</joint>
+		<joint type="Head">
+			<x>297</x>
+			<y>104</y>
+			<z>2,411296</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>158</y>
+			<z>2,59933</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>192</y>
+			<z>2,766073</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>217</y>
+			<z>2,949379</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>226</y>
+			<z>3,019454</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>330</x>
+			<y>159</y>
+			<z>2,634324</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>195</y>
+			<z>2,835136</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>221</y>
+			<z>3,007523</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,052586</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>229</y>
+			<z>2,761672</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123626</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,33844</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>300</x>
+			<y>390</y>
+			<z>3,346505</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>229</y>
+			<z>2,781787</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118663</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,324857</z>
+		</joint>
+		<joint type="FootRight">
+			<x>294</x>
+			<y>388</y>
+			<z>3,351333</z>
+		</joint>
+	</frame>
+	<frame no="636">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>216</y>
+			<z>2,742627</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>205</y>
+			<z>2,710536</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>145</y>
+			<z>2,551575</z>
+		</joint>
+		<joint type="Head">
+			<x>297</x>
+			<y>105</y>
+			<z>2,390602</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>159</y>
+			<z>2,584128</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>193</y>
+			<z>2,754292</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>217</y>
+			<z>2,947763</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>226</y>
+			<z>3,017637</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>330</x>
+			<y>161</y>
+			<z>2,610923</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>344</x>
+			<y>196</y>
+			<z>2,825566</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>221</y>
+			<z>3,008804</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,05272</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>230</y>
+			<z>2,762516</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123387</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338377</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>300</x>
+			<y>390</y>
+			<z>3,345762</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>230</y>
+			<z>2,781441</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118782</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325015</z>
+		</joint>
+		<joint type="FootRight">
+			<x>294</x>
+			<y>389</y>
+			<z>3,350748</z>
+		</joint>
+	</frame>
+	<frame no="637">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>218</y>
+			<z>2,738758</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>207</y>
+			<z>2,70394</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>147</y>
+			<z>2,534266</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>107</y>
+			<z>2,369436</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>261</x>
+			<y>161</y>
+			<z>2,565089</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>194</y>
+			<z>2,738237</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>245</x>
+			<y>218</y>
+			<z>2,964281</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>226</y>
+			<z>3,023445</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>330</x>
+			<y>162</y>
+			<z>2,593978</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>342</x>
+			<y>199</y>
+			<z>2,800724</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>221</y>
+			<z>2,99677</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,044911</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>231</y>
+			<z>2,762422</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123337</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,33832</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>300</x>
+			<y>390</y>
+			<z>3,345737</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>231</y>
+			<z>2,780408</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118938</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325267</z>
+		</joint>
+		<joint type="FootRight">
+			<x>294</x>
+			<y>389</y>
+			<z>3,350136</z>
+		</joint>
+	</frame>
+	<frame no="638">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>219</y>
+			<z>2,734174</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>208</y>
+			<z>2,696903</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>296</x>
+			<y>149</y>
+			<z>2,517742</z>
+		</joint>
+		<joint type="Head">
+			<x>299</x>
+			<y>109</y>
+			<z>2,350256</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>261</x>
+			<y>163</y>
+			<z>2,548727</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>194</y>
+			<z>2,725806</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>219</y>
+			<z>2,9304</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>246</x>
+			<y>226</y>
+			<z>3,001409</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>330</x>
+			<y>163</y>
+			<z>2,578348</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>341</x>
+			<y>200</y>
+			<z>2,787987</z>
+		</joint>
+		<joint type="WristRight">
+			<x>342</x>
+			<y>221</y>
+			<z>2,987355</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,035932</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>232</y>
+			<z>2,761455</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123329</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338268</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>301</x>
+			<y>390</y>
+			<z>3,340981</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>232</y>
+			<z>2,777639</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,118981</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325515</z>
+		</joint>
+		<joint type="FootRight">
+			<x>295</x>
+			<y>389</y>
+			<z>3,349434</z>
+		</joint>
+	</frame>
+	<frame no="639">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>221</y>
+			<z>2,72923</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>210</y>
+			<z>2,690081</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>296</x>
+			<y>150</y>
+			<z>2,504302</z>
+		</joint>
+		<joint type="Head">
+			<x>300</x>
+			<y>111</y>
+			<z>2,33386</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>262</x>
+			<y>163</y>
+			<z>2,533123</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,713305</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>220</y>
+			<z>2,902967</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>247</x>
+			<y>227</y>
+			<z>2,981616</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>165</y>
+			<z>2,564133</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>341</x>
+			<y>201</y>
+			<z>2,775959</z>
+		</joint>
+		<joint type="WristRight">
+			<x>338</x>
+			<y>223</y>
+			<z>2,964393</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,014428</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>232</y>
+			<z>2,760158</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123269</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,33822</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>301</x>
+			<y>390</y>
+			<z>3,338797</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>233</y>
+			<z>2,773182</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>313</x>
+			<y>320</y>
+			<z>3,118454</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325628</z>
+		</joint>
+		<joint type="FootRight">
+			<x>295</x>
+			<y>389</y>
+			<z>3,348565</z>
+		</joint>
+	</frame>
+	<frame no="640">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>222</y>
+			<z>2,724343</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>211</y>
+			<z>2,683632</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>297</x>
+			<y>152</y>
+			<z>2,491934</z>
+		</joint>
+		<joint type="Head">
+			<x>302</x>
+			<y>111</y>
+			<z>2,319141</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>263</x>
+			<y>164</y>
+			<z>2,519811</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,692328</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>219</y>
+			<z>2,885862</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>247</x>
+			<y>227</y>
+			<z>2,9566</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>167</y>
+			<z>2,549453</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>341</x>
+			<y>203</y>
+			<z>2,767636</z>
+		</joint>
+		<joint type="WristRight">
+			<x>337</x>
+			<y>225</y>
+			<z>2,959908</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>3,005873</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>281</x>
+			<y>233</y>
+			<z>2,758711</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>322</y>
+			<z>3,123426</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,338313</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>291</x>
+			<y>391</y>
+			<z>3,344547</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>235</y>
+			<z>2,767307</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>313</x>
+			<y>320</y>
+			<z>3,117317</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325717</z>
+		</joint>
+		<joint type="FootRight">
+			<x>294</x>
+			<y>391</y>
+			<z>3,337536</z>
+		</joint>
+	</frame>
+	<frame no="641">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>223</y>
+			<z>2,718804</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>212</y>
+			<z>2,676781</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>298</x>
+			<y>153</y>
+			<z>2,480493</z>
+		</joint>
+		<joint type="Head">
+			<x>304</x>
+			<y>113</y>
+			<z>2,306071</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>264</x>
+			<y>165</y>
+			<z>2,507581</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,677362</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>219</y>
+			<z>2,87106</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>247</x>
+			<y>226</y>
+			<z>2,938916</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>168</y>
+			<z>2,535138</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>341</x>
+			<y>204</y>
+			<z>2,754179</z>
+		</joint>
+		<joint type="WristRight">
+			<x>336</x>
+			<y>227</y>
+			<z>2,943464</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,990625</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>281</x>
+			<y>233</y>
+			<z>2,756773</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>323</y>
+			<z>3,124534</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,339711</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>288</x>
+			<y>391</y>
+			<z>3,3427</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>236</y>
+			<z>2,760681</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>313</x>
+			<y>320</y>
+			<z>3,116064</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325796</z>
+		</joint>
+		<joint type="FootRight">
+			<x>294</x>
+			<y>391</y>
+			<z>3,329755</z>
+		</joint>
+	</frame>
+	<frame no="642">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>224</y>
+			<z>2,712788</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>214</y>
+			<z>2,669474</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>299</x>
+			<y>154</y>
+			<z>2,467424</z>
+		</joint>
+		<joint type="Head">
+			<x>307</x>
+			<y>114</y>
+			<z>2,293811</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>265</x>
+			<y>166</y>
+			<z>2,493725</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,665745</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>219</y>
+			<z>2,858738</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>247</x>
+			<y>226</y>
+			<z>2,925256</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>332</x>
+			<y>170</y>
+			<z>2,52194</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>341</x>
+			<y>205</y>
+			<z>2,737255</z>
+		</joint>
+		<joint type="WristRight">
+			<x>335</x>
+			<y>229</y>
+			<z>2,917125</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,971734</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>282</x>
+			<y>234</y>
+			<z>2,753044</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>324</y>
+			<z>3,125517</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,340517</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>287</x>
+			<y>392</y>
+			<z>3,335526</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>237</y>
+			<z>2,754539</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,11243</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325765</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>391</y>
+			<z>3,325244</z>
+		</joint>
+	</frame>
+	<frame no="643">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>224</y>
+			<z>2,706682</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>214</y>
+			<z>2,6622</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>301</x>
+			<y>156</y>
+			<z>2,454962</z>
+		</joint>
+		<joint type="Head">
+			<x>310</x>
+			<y>116</y>
+			<z>2,283098</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>267</x>
+			<y>167</y>
+			<z>2,481362</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,651954</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>250</x>
+			<y>233</y>
+			<z>2,740901</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>251</x>
+			<y>241</y>
+			<z>2,80977</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>333</x>
+			<y>171</y>
+			<z>2,509165</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>342</x>
+			<y>206</y>
+			<z>2,708787</z>
+		</joint>
+		<joint type="WristRight">
+			<x>333</x>
+			<y>234</y>
+			<z>2,864692</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,917202</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>283</x>
+			<y>234</y>
+			<z>2,747781</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>325</y>
+			<z>3,12514</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,341198</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>285</x>
+			<y>392</y>
+			<z>3,335234</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>238</y>
+			<z>2,749964</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>320</y>
+			<z>3,102488</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,325118</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>391</y>
+			<z>3,322459</z>
+		</joint>
+	</frame>
+	<frame no="644">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>225</y>
+			<z>2,70186</z>
+		</joint>
+		<joint type="Spine">
+			<x>298</x>
+			<y>215</y>
+			<z>2,65635</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>303</x>
+			<y>158</y>
+			<z>2,444129</z>
+		</joint>
+		<joint type="Head">
+			<x>313</x>
+			<y>119</y>
+			<z>2,274344</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>269</x>
+			<y>169</y>
+			<z>2,468576</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>247</x>
+			<y>198</y>
+			<z>2,642194</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>251</x>
+			<y>241</y>
+			<z>2,719692</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>245</y>
+			<z>2,788361</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>334</x>
+			<y>174</y>
+			<z>2,498016</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>344</x>
+			<y>208</y>
+			<z>2,664729</z>
+		</joint>
+		<joint type="WristRight">
+			<x>334</x>
+			<y>234</y>
+			<z>2,837054</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,882477</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>283</x>
+			<y>235</y>
+			<z>2,742708</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>287</x>
+			<y>326</y>
+			<z>3,119073</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,341599</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>285</x>
+			<y>392</y>
+			<z>3,334642</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>239</y>
+			<z>2,746459</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>321</y>
+			<z>3,093077</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,323521</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>391</y>
+			<z>3,31986</z>
+		</joint>
+	</frame>
+	<frame no="645">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>226</y>
+			<z>2,698612</z>
+		</joint>
+		<joint type="Spine">
+			<x>298</x>
+			<y>216</y>
+			<z>2,65222</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>305</x>
+			<y>160</y>
+			<z>2,435186</z>
+		</joint>
+		<joint type="Head">
+			<x>317</x>
+			<y>121</y>
+			<z>2,267157</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>270</x>
+			<y>171</y>
+			<z>2,456699</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>247</x>
+			<y>198</y>
+			<z>2,596221</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>245</x>
+			<y>233</y>
+			<z>2,717966</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>248</x>
+			<y>241</y>
+			<z>2,781946</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>336</x>
+			<y>177</y>
+			<z>2,48888</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>345</x>
+			<y>210</y>
+			<z>2,641114</z>
+		</joint>
+		<joint type="WristRight">
+			<x>336</x>
+			<y>243</y>
+			<z>2,82375</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,885624</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>283</x>
+			<y>236</y>
+			<z>2,738131</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>286</x>
+			<y>326</y>
+			<z>3,11183</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,341452</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>284</x>
+			<y>392</y>
+			<z>3,333976</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>240</y>
+			<z>2,744961</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>322</y>
+			<z>3,085469</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,322331</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>391</y>
+			<z>3,317203</z>
+		</joint>
+	</frame>
+	<frame no="646">
+		<joint type="HipCenter">
+			<x>299</x>
+			<y>230</y>
+			<z>2,697547</z>
+		</joint>
+		<joint type="Spine">
+			<x>300</x>
+			<y>219</y>
+			<z>2,649993</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>306</x>
+			<y>163</y>
+			<z>2,427894</z>
+		</joint>
+		<joint type="Head">
+			<x>321</x>
+			<y>124</y>
+			<z>2,260275</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>272</x>
+			<y>172</y>
+			<z>2,445914</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>247</x>
+			<y>205</y>
+			<z>2,586684</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>240</y>
+			<z>2,716633</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>246</x>
+			<y>247</y>
+			<z>2,777726</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>337</x>
+			<y>179</y>
+			<z>2,480453</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>346</x>
+			<y>213</y>
+			<z>2,62</z>
+		</joint>
+		<joint type="WristRight">
+			<x>339</x>
+			<y>252</y>
+			<z>2,804764</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>239</y>
+			<z>2,875204</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>285</x>
+			<y>239</y>
+			<z>2,737868</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>285</x>
+			<y>327</y>
+			<z>3,100452</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,340506</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>284</x>
+			<y>392</y>
+			<z>3,330819</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>240</y>
+			<z>2,745308</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>310</x>
+			<y>322</y>
+			<z>3,079113</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,321385</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>392</y>
+			<z>3,314305</z>
+		</joint>
+	</frame>
+	<frame no="647">
+		<joint type="HipCenter">
+			<x>300</x>
+			<y>231</y>
+			<z>2,696515</z>
+		</joint>
+		<joint type="Spine">
+			<x>301</x>
+			<y>222</y>
+			<z>2,648816</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>307</x>
+			<y>172</y>
+			<z>2,436699</z>
+		</joint>
+		<joint type="Head">
+			<x>322</x>
+			<y>131</y>
+			<z>2,272284</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>273</x>
+			<y>174</y>
+			<z>2,437096</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>249</x>
+			<y>214</y>
+			<z>2,564504</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>253</y>
+			<z>2,704182</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>244</x>
+			<y>268</y>
+			<z>2,75483</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>339</x>
+			<y>185</y>
+			<z>2,478099</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>344</x>
+			<y>230</y>
+			<z>2,643493</z>
+		</joint>
+		<joint type="WristRight">
+			<x>340</x>
+			<y>268</y>
+			<z>2,782423</z>
+		</joint>
+		<joint type="HandRight">
+			<x>331</x>
+			<y>250</y>
+			<z>2,83968</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>286</x>
+			<y>240</y>
+			<z>2,737295</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>328</y>
+			<z>3,087745</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,337194</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>285</x>
+			<y>393</y>
+			<z>3,314356</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>243</y>
+			<z>2,745569</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>310</x>
+			<y>323</y>
+			<z>3,074845</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,320765</z>
+		</joint>
+		<joint type="FootRight">
+			<x>293</x>
+			<y>392</y>
+			<z>3,311738</z>
+		</joint>
+	</frame>
+	<frame no="648">
+		<joint type="HipCenter">
+			<x>300</x>
+			<y>233</y>
+			<z>2,695633</z>
+		</joint>
+		<joint type="Spine">
+			<x>302</x>
+			<y>224</y>
+			<z>2,648595</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>308</x>
+			<y>178</y>
+			<z>2,442633</z>
+		</joint>
+		<joint type="Head">
+			<x>323</x>
+			<y>136</y>
+			<z>2,277783</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>275</x>
+			<y>176</y>
+			<z>2,428969</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>250</x>
+			<y>221</y>
+			<z>2,554629</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>250</x>
+			<y>265</y>
+			<z>2,650018</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>270</y>
+			<z>2,687634</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>188</y>
+			<z>2,476545</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>343</x>
+			<y>236</y>
+			<z>2,622438</z>
+		</joint>
+		<joint type="WristRight">
+			<x>340</x>
+			<y>283</y>
+			<z>2,711061</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>280</y>
+			<z>2,758669</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>287</x>
+			<y>242</y>
+			<z>2,736546</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>328</y>
+			<z>3,075454</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>292</x>
+			<y>382</y>
+			<z>3,333648</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>285</x>
+			<y>394</y>
+			<z>3,300809</z>
+		</joint>
+		<joint type="HipRight">
+			<x>312</x>
+			<y>245</y>
+			<z>2,745749</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>325</y>
+			<z>3,068364</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,319993</z>
+		</joint>
+		<joint type="FootRight">
+			<x>306</x>
+			<y>391</y>
+			<z>3,335124</z>
+		</joint>
+	</frame>
+	<frame no="649">
+		<joint type="HipCenter">
+			<x>301</x>
+			<y>235</y>
+			<z>2,69405</z>
+		</joint>
+		<joint type="Spine">
+			<x>302</x>
+			<y>226</y>
+			<z>2,647341</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>309</x>
+			<y>176</y>
+			<z>2,427932</z>
+		</joint>
+		<joint type="Head">
+			<x>325</x>
+			<y>136</y>
+			<z>2,267636</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>276</x>
+			<y>177</y>
+			<z>2,420746</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>252</x>
+			<y>224</y>
+			<z>2,526999</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>259</x>
+			<y>271</y>
+			<z>2,567554</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>250</x>
+			<y>280</y>
+			<z>2,564928</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>190</y>
+			<z>2,473471</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>343</x>
+			<y>238</y>
+			<z>2,564571</z>
+		</joint>
+		<joint type="WristRight">
+			<x>339</x>
+			<y>287</y>
+			<z>2,606701</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>290</y>
+			<z>2,61647</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>243</y>
+			<z>2,735522</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>328</y>
+			<z>3,065924</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>291</x>
+			<y>382</y>
+			<z>3,319069</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>285</x>
+			<y>394</y>
+			<z>3,296138</z>
+		</joint>
+		<joint type="HipRight">
+			<x>312</x>
+			<y>246</y>
+			<z>2,743932</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>327</y>
+			<z>3,086544</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,320578</z>
+		</joint>
+		<joint type="FootRight">
+			<x>306</x>
+			<y>393</y>
+			<z>3,319315</z>
+		</joint>
+	</frame>
+	<frame no="650">
+		<joint type="HipCenter">
+			<x>302</x>
+			<y>236</y>
+			<z>2,689263</z>
+		</joint>
+		<joint type="Spine">
+			<x>303</x>
+			<y>226</y>
+			<z>2,642169</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>310</x>
+			<y>173</y>
+			<z>2,415471</z>
+		</joint>
+		<joint type="Head">
+			<x>327</x>
+			<y>135</y>
+			<z>2,257633</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>277</x>
+			<y>178</y>
+			<z>2,413606</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>255</x>
+			<y>224</y>
+			<z>2,495626</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>272</x>
+			<y>268</y>
+			<z>2,493926</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>273</x>
+			<y>279</y>
+			<z>2,465468</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>341</x>
+			<y>191</y>
+			<z>2,468786</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>342</x>
+			<y>239</y>
+			<z>2,52162</z>
+		</joint>
+		<joint type="WristRight">
+			<x>334</x>
+			<y>288</y>
+			<z>2,503981</z>
+		</joint>
+		<joint type="HandRight">
+			<x>336</x>
+			<y>297</y>
+			<z>2,49828</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>289</x>
+			<y>244</y>
+			<z>2,731072</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>329</y>
+			<z>3,052493</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>290</x>
+			<y>382</y>
+			<z>3,312682</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>395</y>
+			<z>3,267812</z>
+		</joint>
+		<joint type="HipRight">
+			<x>314</x>
+			<y>247</y>
+			<z>2,737317</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>328</y>
+			<z>3,096597</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,324713</z>
+		</joint>
+		<joint type="FootRight">
+			<x>308</x>
+			<y>393</y>
+			<z>3,33459</z>
+		</joint>
+	</frame>
+	<frame no="651">
+		<joint type="HipCenter">
+			<x>301</x>
+			<y>234</y>
+			<z>2,65061</z>
+		</joint>
+		<joint type="Spine">
+			<x>303</x>
+			<y>224</y>
+			<z>2,609836</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>310</x>
+			<y>171</y>
+			<z>2,405566</z>
+		</joint>
+		<joint type="Head">
+			<x>327</x>
+			<y>133</y>
+			<z>2,249908</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>277</x>
+			<y>178</y>
+			<z>2,406612</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>259</x>
+			<y>223</y>
+			<z>2,472072</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>288</x>
+			<y>262</y>
+			<z>2,456241</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>293</x>
+			<y>262</y>
+			<z>2,43793</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>341</x>
+			<y>190</y>
+			<z>2,456352</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>340</x>
+			<y>237</y>
+			<z>2,471496</z>
+		</joint>
+		<joint type="WristRight">
+			<x>319</x>
+			<y>286</y>
+			<z>2,403986</z>
+		</joint>
+		<joint type="HandRight">
+			<x>308</x>
+			<y>302</y>
+			<z>2,37668</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>285</x>
+			<y>244</y>
+			<z>2,681492</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>329</y>
+			<z>3,038278</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>285</x>
+			<y>384</y>
+			<z>3,278407</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>281</x>
+			<y>397</y>
+			<z>3,252599</z>
+		</joint>
+		<joint type="HipRight">
+			<x>315</x>
+			<y>246</y>
+			<z>2,701041</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>328</y>
+			<z>3,099396</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>303</x>
+			<y>381</y>
+			<z>3,32759</z>
+		</joint>
+		<joint type="FootRight">
+			<x>308</x>
+			<y>392</y>
+			<z>3,342639</z>
+		</joint>
+	</frame>
+	<frame no="652">
+		<joint type="HipCenter">
+			<x>298</x>
+			<y>235</y>
+			<z>2,613615</z>
+		</joint>
+		<joint type="Spine">
+			<x>300</x>
+			<y>224</y>
+			<z>2,579935</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>309</x>
+			<y>168</y>
+			<z>2,398543</z>
+		</joint>
+		<joint type="Head">
+			<x>326</x>
+			<y>129</y>
+			<z>2,242149</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>277</x>
+			<y>178</y>
+			<z>2,39538</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>261</x>
+			<y>223</y>
+			<z>2,455335</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>294</x>
+			<y>259</y>
+			<z>2,436807</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>311</x>
+			<y>240</y>
+			<z>2,419249</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>341</x>
+			<y>187</y>
+			<z>2,442452</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>336</x>
+			<y>233</y>
+			<z>2,426935</z>
+		</joint>
+		<joint type="WristRight">
+			<x>307</x>
+			<y>274</y>
+			<z>2,335959</z>
+		</joint>
+		<joint type="HandRight">
+			<x>290</x>
+			<y>288</y>
+			<z>2,294172</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>245</y>
+			<z>2,634444</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>330</y>
+			<z>3,030483</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>387</y>
+			<z>3,233068</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>281</x>
+			<y>402</y>
+			<z>3,177264</z>
+		</joint>
+		<joint type="HipRight">
+			<x>312</x>
+			<y>248</y>
+			<z>2,658037</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>327</y>
+			<z>3,095637</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>381</y>
+			<z>3,330391</z>
+		</joint>
+		<joint type="FootRight">
+			<x>307</x>
+			<y>393</y>
+			<z>3,297461</z>
+		</joint>
+	</frame>
+	<frame no="653">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>235</y>
+			<z>2,557947</z>
+		</joint>
+		<joint type="Spine">
+			<x>298</x>
+			<y>223</y>
+			<z>2,532297</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>308</x>
+			<y>165</y>
+			<z>2,392316</z>
+		</joint>
+		<joint type="Head">
+			<x>323</x>
+			<y>125</y>
+			<z>2,236032</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>275</x>
+			<y>176</y>
+			<z>2,376463</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>261</x>
+			<y>221</y>
+			<z>2,436856</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>298</x>
+			<y>248</y>
+			<z>2,340528</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>321</x>
+			<y>220</y>
+			<z>2,341951</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>341</x>
+			<y>184</y>
+			<z>2,427714</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>333</x>
+			<y>230</y>
+			<z>2,393016</z>
+		</joint>
+		<joint type="WristRight">
+			<x>291</x>
+			<y>258</y>
+			<z>2,282678</z>
+		</joint>
+		<joint type="HandRight">
+			<x>275</x>
+			<y>260</y>
+			<z>2,258819</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>276</x>
+			<y>245</y>
+			<z>2,570659</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>330</y>
+			<z>3,018759</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>281</x>
+			<y>390</y>
+			<z>3,206269</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>281</x>
+			<y>405</y>
+			<z>3,141412</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>250</y>
+			<z>2,594465</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>326</y>
+			<z>3,088147</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>304</x>
+			<y>380</y>
+			<z>3,331509</z>
+		</joint>
+		<joint type="FootRight">
+			<x>307</x>
+			<y>393</y>
+			<z>3,282123</z>
+		</joint>
+	</frame>
+	<frame no="654">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>232</y>
+			<z>2,540764</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>221</y>
+			<z>2,509205</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>306</x>
+			<y>162</y>
+			<z>2,384802</z>
+		</joint>
+		<joint type="Head">
+			<x>319</x>
+			<y>119</y>
+			<z>2,230518</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>274</x>
+			<y>174</y>
+			<z>2,360192</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>261</x>
+			<y>220</y>
+			<z>2,398431</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>290</x>
+			<y>249</y>
+			<z>2,248909</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>323</x>
+			<y>210</y>
+			<z>2,206867</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>339</x>
+			<y>179</y>
+			<z>2,412357</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>324</x>
+			<y>226</y>
+			<z>2,358463</z>
+		</joint>
+		<joint type="WristRight">
+			<x>276</x>
+			<y>242</y>
+			<z>2,251668</z>
+		</joint>
+		<joint type="HandRight">
+			<x>259</x>
+			<y>249</y>
+			<z>2,252498</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>278</x>
+			<y>243</y>
+			<z>2,560524</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>280</x>
+			<y>329</y>
+			<z>2,993223</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>391</y>
+			<z>3,195312</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>284</x>
+			<y>399</y>
+			<z>3,228327</z>
+		</joint>
+		<joint type="HipRight">
+			<x>312</x>
+			<y>247</y>
+			<z>2,57715</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>323</y>
+			<z>3,061339</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>305</x>
+			<y>380</y>
+			<z>3,3317</z>
+		</joint>
+		<joint type="FootRight">
+			<x>308</x>
+			<y>393</y>
+			<z>3,274397</z>
+		</joint>
+	</frame>
+	<frame no="655">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>231</y>
+			<z>2,542166</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>220</y>
+			<z>2,509628</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>303</x>
+			<y>157</y>
+			<z>2,376624</z>
+		</joint>
+		<joint type="Head">
+			<x>313</x>
+			<y>115</y>
+			<z>2,225917</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>270</x>
+			<y>172</y>
+			<z>2,34363</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>262</x>
+			<y>220</y>
+			<z>2,374569</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>292</x>
+			<y>248</y>
+			<z>2,219112</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>323</x>
+			<y>201</y>
+			<z>2,171299</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>336</x>
+			<y>176</y>
+			<z>2,399394</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>324</x>
+			<y>224</y>
+			<z>2,340662</z>
+		</joint>
+		<joint type="WristRight">
+			<x>272</x>
+			<y>224</y>
+			<z>2,2409</z>
+		</joint>
+		<joint type="HandRight">
+			<x>254</x>
+			<y>226</y>
+			<z>2,231557</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>243</y>
+			<z>2,558418</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>278</x>
+			<y>328</y>
+			<z>2,974382</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>391</y>
+			<z>3,186439</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>403</y>
+			<z>3,146088</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>246</y>
+			<z>2,584996</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>323</y>
+			<z>3,055558</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>305</x>
+			<y>379</y>
+			<z>3,330292</z>
+		</joint>
+		<joint type="FootRight">
+			<x>304</x>
+			<y>391</y>
+			<z>3,300279</z>
+		</joint>
+	</frame>
+	<frame no="656">
+		<joint type="HipCenter">
+			<x>295</x>
+			<y>231</y>
+			<z>2,534635</z>
+		</joint>
+		<joint type="Spine">
+			<x>295</x>
+			<y>218</y>
+			<z>2,503306</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>298</x>
+			<y>154</y>
+			<z>2,370599</z>
+		</joint>
+		<joint type="Head">
+			<x>305</x>
+			<y>111</y>
+			<z>2,221657</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>265</x>
+			<y>170</y>
+			<z>2,329983</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>262</x>
+			<y>220</y>
+			<z>2,360816</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>298</x>
+			<y>241</y>
+			<z>2,21416</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>320</x>
+			<y>197</y>
+			<z>2,176082</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>171</y>
+			<z>2,389212</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>324</x>
+			<y>221</y>
+			<z>2,332728</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>220</y>
+			<z>2,236639</z>
+		</joint>
+		<joint type="HandRight">
+			<x>251</x>
+			<y>221</y>
+			<z>2,213004</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>278</x>
+			<y>242</y>
+			<z>2,547281</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>277</x>
+			<y>328</y>
+			<z>2,96149</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>391</y>
+			<z>3,180447</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>404</y>
+			<z>3,133073</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>244</y>
+			<z>2,579576</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>310</x>
+			<y>323</y>
+			<z>3,030078</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>305</x>
+			<y>378</y>
+			<z>3,312826</z>
+		</joint>
+		<joint type="FootRight">
+			<x>306</x>
+			<y>390</y>
+			<z>3,252476</z>
+		</joint>
+	</frame>
+	<frame no="657">
+		<joint type="HipCenter">
+			<x>292</x>
+			<y>230</y>
+			<z>2,52282</z>
+		</joint>
+		<joint type="Spine">
+			<x>293</x>
+			<y>217</y>
+			<z>2,493487</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>294</x>
+			<y>151</y>
+			<z>2,366835</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>108</y>
+			<z>2,220598</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>168</y>
+			<z>2,321915</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>262</x>
+			<y>219</y>
+			<z>2,348721</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>301</x>
+			<y>240</y>
+			<z>2,212158</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>318</x>
+			<y>193</y>
+			<z>2,179657</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>328</x>
+			<y>168</y>
+			<z>2,385328</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>323</x>
+			<y>217</y>
+			<z>2,330214</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>221</y>
+			<z>2,260726</z>
+		</joint>
+		<joint type="HandRight">
+			<x>251</x>
+			<y>224</y>
+			<z>2,267419</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>276</x>
+			<y>241</y>
+			<z>2,532349</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>276</x>
+			<y>328</y>
+			<z>2,947749</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>391</y>
+			<z>3,176895</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>404</y>
+			<z>3,124305</z>
+		</joint>
+		<joint type="HipRight">
+			<x>308</x>
+			<y>243</y>
+			<z>2,566795</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>309</x>
+			<y>323</y>
+			<z>3,001493</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>305</x>
+			<y>377</y>
+			<z>3,296877</z>
+		</joint>
+		<joint type="FootRight">
+			<x>307</x>
+			<y>390</y>
+			<z>3,232002</z>
+		</joint>
+	</frame>
+	<frame no="658">
+		<joint type="HipCenter">
+			<x>289</x>
+			<y>229</y>
+			<z>2,518669</z>
+		</joint>
+		<joint type="Spine">
+			<x>289</x>
+			<y>217</y>
+			<z>2,492137</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>287</x>
+			<y>160</y>
+			<z>2,388145</z>
+		</joint>
+		<joint type="Head">
+			<x>290</x>
+			<y>111</y>
+			<z>2,242414</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>254</x>
+			<y>167</y>
+			<z>2,318274</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>257</x>
+			<y>218</y>
+			<z>2,337251</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>303</x>
+			<y>233</y>
+			<z>2,246733</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>316</x>
+			<y>194</y>
+			<z>2,227565</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>323</x>
+			<y>166</y>
+			<z>2,385914</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>322</x>
+			<y>215</y>
+			<z>2,331115</z>
+		</joint>
+		<joint type="WristRight">
+			<x>269</x>
+			<y>219</y>
+			<z>2,261426</z>
+		</joint>
+		<joint type="HandRight">
+			<x>253</x>
+			<y>223</y>
+			<z>2,283961</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>275</x>
+			<y>241</y>
+			<z>2,526391</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>275</x>
+			<y>328</y>
+			<z>2,934797</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>390</y>
+			<z>3,174726</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>404</y>
+			<z>3,117373</z>
+		</joint>
+		<joint type="HipRight">
+			<x>302</x>
+			<y>241</y>
+			<z>2,563552</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>309</x>
+			<y>324</y>
+			<z>2,967653</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>305</x>
+			<y>375</y>
+			<z>3,27975</z>
+		</joint>
+		<joint type="FootRight">
+			<x>307</x>
+			<y>390</y>
+			<z>3,213434</z>
+		</joint>
+	</frame>
+	<frame no="659">
+		<joint type="HipCenter">
+			<x>288</x>
+			<y>228</y>
+			<z>2,516292</z>
+		</joint>
+		<joint type="Spine">
+			<x>287</x>
+			<y>217</y>
+			<z>2,49141</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>283</x>
+			<y>161</y>
+			<z>2,39114</z>
+		</joint>
+		<joint type="Head">
+			<x>285</x>
+			<y>111</y>
+			<z>2,24837</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>249</x>
+			<y>168</y>
+			<z>2,318322</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>254</x>
+			<y>219</y>
+			<z>2,329292</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>303</x>
+			<y>231</y>
+			<z>2,250919</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>316</x>
+			<y>192</y>
+			<z>2,235431</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>318</x>
+			<y>164</y>
+			<z>2,390577</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>322</x>
+			<y>213</y>
+			<z>2,333767</z>
+		</joint>
+		<joint type="WristRight">
+			<x>268</x>
+			<y>218</y>
+			<z>2,261944</z>
+		</joint>
+		<joint type="HandRight">
+			<x>256</x>
+			<y>222</y>
+			<z>2,292147</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>274</x>
+			<y>242</y>
+			<z>2,523197</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>274</x>
+			<y>329</y>
+			<z>2,924119</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>390</y>
+			<z>3,172739</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>404</y>
+			<z>3,111995</z>
+		</joint>
+		<joint type="HipRight">
+			<x>299</x>
+			<y>241</y>
+			<z>2,560093</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>308</x>
+			<y>325</y>
+			<z>2,933764</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>307</x>
+			<y>374</y>
+			<z>3,258024</z>
+		</joint>
+		<joint type="FootRight">
+			<x>309</x>
+			<y>389</y>
+			<z>3,238885</z>
+		</joint>
+	</frame>
+	<frame no="660">
+		<joint type="HipCenter">
+			<x>284</x>
+			<y>228</y>
+			<z>2,51428</z>
+		</joint>
+		<joint type="Spine">
+			<x>284</x>
+			<y>217</y>
+			<z>2,490504</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>280</x>
+			<y>162</y>
+			<z>2,39257</z>
+		</joint>
+		<joint type="Head">
+			<x>280</x>
+			<y>110</y>
+			<z>2,2536</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>245</x>
+			<y>169</y>
+			<z>2,319221</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>252</x>
+			<y>220</y>
+			<z>2,322563</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>302</x>
+			<y>230</y>
+			<z>2,254823</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>316</x>
+			<y>192</y>
+			<z>2,241887</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>314</x>
+			<y>163</y>
+			<z>2,395888</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>321</x>
+			<y>212</y>
+			<z>2,336403</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>222</y>
+			<z>2,25616</z>
+		</joint>
+		<joint type="HandRight">
+			<x>260</x>
+			<y>223</y>
+			<z>2,290467</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>272</x>
+			<y>243</y>
+			<z>2,521147</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>329</y>
+			<z>2,916592</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>280</x>
+			<y>389</y>
+			<z>3,176476</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>403</y>
+			<z>3,11301</z>
+		</joint>
+		<joint type="HipRight">
+			<x>298</x>
+			<y>241</y>
+			<z>2,556802</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>308</x>
+			<y>327</y>
+			<z>2,915159</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>309</x>
+			<y>375</y>
+			<z>3,240608</z>
+		</joint>
+		<joint type="FootRight">
+			<x>312</x>
+			<y>390</y>
+			<z>3,205041</z>
+		</joint>
+	</frame>
+	<frame no="661">
+		<joint type="HipCenter">
+			<x>282</x>
+			<y>229</y>
+			<z>2,511612</z>
+		</joint>
+		<joint type="Spine">
+			<x>281</x>
+			<y>217</y>
+			<z>2,488729</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>278</x>
+			<y>162</y>
+			<z>2,393477</z>
+		</joint>
+		<joint type="Head">
+			<x>276</x>
+			<y>110</y>
+			<z>2,258343</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>243</x>
+			<y>169</y>
+			<z>2,319559</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>249</x>
+			<y>220</y>
+			<z>2,317136</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>301</x>
+			<y>229</y>
+			<z>2,257606</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>314</x>
+			<y>192</y>
+			<z>2,246285</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>312</x>
+			<y>163</y>
+			<z>2,399799</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>320</x>
+			<y>211</y>
+			<z>2,338144</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>223</y>
+			<z>2,252858</z>
+		</joint>
+		<joint type="HandRight">
+			<x>259</x>
+			<y>223</y>
+			<z>2,285987</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>271</x>
+			<y>244</y>
+			<z>2,517772</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>329</y>
+			<z>2,910543</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>281</x>
+			<y>388</y>
+			<z>3,177372</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>403</y>
+			<z>3,112691</z>
+		</joint>
+		<joint type="HipRight">
+			<x>295</x>
+			<y>241</y>
+			<z>2,55316</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>308</x>
+			<y>327</y>
+			<z>2,901395</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>313</x>
+			<y>376</y>
+			<z>3,223429</z>
+		</joint>
+		<joint type="FootRight">
+			<x>317</x>
+			<y>392</y>
+			<z>3,23363</z>
+		</joint>
+	</frame>
+	<frame no="662">
+		<joint type="HipCenter">
+			<x>281</x>
+			<y>229</y>
+			<z>2,508638</z>
+		</joint>
+		<joint type="Spine">
+			<x>280</x>
+			<y>218</y>
+			<z>2,486543</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>276</x>
+			<y>162</y>
+			<z>2,394161</z>
+		</joint>
+		<joint type="Head">
+			<x>273</x>
+			<y>109</y>
+			<z>2,263087</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>241</x>
+			<y>170</y>
+			<z>2,319438</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>249</x>
+			<y>221</y>
+			<z>2,308661</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>301</x>
+			<y>228</y>
+			<z>2,255039</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>313</x>
+			<y>192</y>
+			<z>2,245432</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>310</x>
+			<y>162</y>
+			<z>2,402231</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>319</x>
+			<y>210</y>
+			<z>2,339665</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>223</y>
+			<z>2,250617</z>
+		</joint>
+		<joint type="HandRight">
+			<x>258</x>
+			<y>224</y>
+			<z>2,282187</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>270</x>
+			<y>244</y>
+			<z>2,513961</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>330</y>
+			<z>2,905702</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>281</x>
+			<y>388</y>
+			<z>3,179637</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>284</x>
+			<y>402</y>
+			<z>3,114269</z>
+		</joint>
+		<joint type="HipRight">
+			<x>294</x>
+			<y>241</y>
+			<z>2,549216</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>308</x>
+			<y>328</y>
+			<z>2,892275</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>316</x>
+			<y>379</y>
+			<z>3,208931</z>
+		</joint>
+		<joint type="FootRight">
+			<x>320</x>
+			<y>396</y>
+			<z>3,225451</z>
+		</joint>
+	</frame>
+	<frame no="663">
+		<joint type="HipCenter">
+			<x>279</x>
+			<y>229</y>
+			<z>2,505772</z>
+		</joint>
+		<joint type="Spine">
+			<x>279</x>
+			<y>218</y>
+			<z>2,484429</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>275</x>
+			<y>162</y>
+			<z>2,39487</z>
+		</joint>
+		<joint type="Head">
+			<x>271</x>
+			<y>108</y>
+			<z>2,26778</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>240</x>
+			<y>170</y>
+			<z>2,319393</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>248</x>
+			<y>222</y>
+			<z>2,30227</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>301</x>
+			<y>228</y>
+			<z>2,252866</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>314</x>
+			<y>192</y>
+			<z>2,244364</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>309</x>
+			<y>162</y>
+			<z>2,403758</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>319</x>
+			<y>210</y>
+			<z>2,340606</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>223</y>
+			<z>2,248273</z>
+		</joint>
+		<joint type="HandRight">
+			<x>257</x>
+			<y>224</y>
+			<z>2,278852</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>269</x>
+			<y>245</y>
+			<z>2,510163</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>330</y>
+			<z>2,901859</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>387</y>
+			<z>3,181331</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,186334</z>
+		</joint>
+		<joint type="HipRight">
+			<x>293</x>
+			<y>241</y>
+			<z>2,545347</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>309</x>
+			<y>330</y>
+			<z>2,88836</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>319</x>
+			<y>383</y>
+			<z>3,193237</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,206767</z>
+		</joint>
+	</frame>
+	<frame no="664">
+		<joint type="HipCenter">
+			<x>279</x>
+			<y>229</y>
+			<z>2,503144</z>
+		</joint>
+		<joint type="Spine">
+			<x>279</x>
+			<y>218</y>
+			<z>2,482578</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>273</x>
+			<y>162</y>
+			<z>2,396358</z>
+		</joint>
+		<joint type="Head">
+			<x>269</x>
+			<y>107</y>
+			<z>2,272523</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>239</x>
+			<y>170</y>
+			<z>2,320623</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>247</x>
+			<y>222</y>
+			<z>2,296907</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>301</x>
+			<y>227</y>
+			<z>2,251303</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>313</x>
+			<y>194</y>
+			<z>2,243717</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>308</x>
+			<y>162</y>
+			<z>2,405402</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>319</x>
+			<y>210</y>
+			<z>2,341966</z>
+		</joint>
+		<joint type="WristRight">
+			<x>270</x>
+			<y>224</y>
+			<z>2,246514</z>
+		</joint>
+		<joint type="HandRight">
+			<x>257</x>
+			<y>224</y>
+			<z>2,276056</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>268</x>
+			<y>245</y>
+			<z>2,506668</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>272</x>
+			<y>330</y>
+			<z>2,898732</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>387</y>
+			<z>3,181887</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,198509</z>
+		</joint>
+		<joint type="HipRight">
+			<x>292</x>
+			<y>242</y>
+			<z>2,541095</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>310</x>
+			<y>332</y>
+			<z>2,885058</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>319</x>
+			<y>384</y>
+			<z>3,186215</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>402</y>
+			<z>3,201601</z>
+		</joint>
+	</frame>
+	<frame no="665">
+		<joint type="HipCenter">
+			<x>279</x>
+			<y>230</y>
+			<z>2,500754</z>
+		</joint>
+		<joint type="Spine">
+			<x>278</x>
+			<y>218</y>
+			<z>2,48122</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>273</x>
+			<y>162</y>
+			<z>2,400637</z>
+		</joint>
+		<joint type="Head">
+			<x>269</x>
+			<y>107</y>
+			<z>2,279189</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>238</x>
+			<y>170</y>
+			<z>2,328445</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>245</x>
+			<y>221</y>
+			<z>2,302113</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>289</x>
+			<y>241</y>
+			<z>2,261147</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>310</x>
+			<y>197</y>
+			<z>2,247969</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>307</x>
+			<y>162</y>
+			<z>2,407712</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>319</x>
+			<y>210</y>
+			<z>2,345179</z>
+		</joint>
+		<joint type="WristRight">
+			<x>280</x>
+			<y>238</y>
+			<z>2,252527</z>
+		</joint>
+		<joint type="HandRight">
+			<x>264</x>
+			<y>241</y>
+			<z>2,250608</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>268</x>
+			<y>246</y>
+			<z>2,503587</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>272</x>
+			<y>330</y>
+			<z>2,896094</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>387</y>
+			<z>3,182371</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,187132</z>
+		</joint>
+		<joint type="HipRight">
+			<x>292</x>
+			<y>243</y>
+			<z>2,535116</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>332</y>
+			<z>2,881802</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>385</y>
+			<z>3,180582</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>403</y>
+			<z>3,19842</z>
+		</joint>
+	</frame>
+	<frame no="666">
+		<joint type="HipCenter">
+			<x>279</x>
+			<y>231</y>
+			<z>2,471062</z>
+		</joint>
+		<joint type="Spine">
+			<x>279</x>
+			<y>218</y>
+			<z>2,458799</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>276</x>
+			<y>154</y>
+			<z>2,409625</z>
+		</joint>
+		<joint type="Head">
+			<x>269</x>
+			<y>107</y>
+			<z>2,290168</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>239</x>
+			<y>170</y>
+			<z>2,34422</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>243</x>
+			<y>221</y>
+			<z>2,311954</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>282</x>
+			<y>249</y>
+			<z>2,273255</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>296</x>
+			<y>259</y>
+			<z>2,264619</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>309</x>
+			<y>163</y>
+			<z>2,411753</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>322</x>
+			<y>213</y>
+			<z>2,370453</z>
+		</joint>
+		<joint type="WristRight">
+			<x>293</x>
+			<y>252</y>
+			<z>2,307726</z>
+		</joint>
+		<joint type="HandRight">
+			<x>276</x>
+			<y>240</y>
+			<z>2,281452</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>265</x>
+			<y>248</y>
+			<z>2,469279</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>272</x>
+			<y>331</y>
+			<z>2,893536</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>386</y>
+			<z>3,183195</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>398</y>
+			<z>3,198563</z>
+		</joint>
+		<joint type="HipRight">
+			<x>296</x>
+			<y>246</y>
+			<z>2,493828</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>311</x>
+			<y>333</y>
+			<z>2,877786</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>385</y>
+			<z>3,175512</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>403</y>
+			<z>3,19803</z>
+		</joint>
+	</frame>
+	<frame no="667">
+		<joint type="HipCenter">
+			<x>279</x>
+			<y>232</y>
+			<z>2,459649</z>
+		</joint>
+		<joint type="Spine">
+			<x>279</x>
+			<y>218</y>
+			<z>2,449209</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>278</x>
+			<y>149</y>
+			<z>2,409713</z>
+		</joint>
+		<joint type="Head">
+			<x>270</x>
+			<y>105</y>
+			<z>2,290694</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>239</x>
+			<y>170</y>
+			<z>2,356908</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>241</x>
+			<y>220</y>
+			<z>2,329808</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>281</x>
+			<y>248</y>
+			<z>2,293586</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>295</x>
+			<y>259</y>
+			<z>2,277635</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>311</x>
+			<y>165</y>
+			<z>2,415553</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>328</x>
+			<y>216</y>
+			<z>2,427071</z>
+		</joint>
+		<joint type="WristRight">
+			<x>317</x>
+			<y>263</y>
+			<z>2,400317</z>
+		</joint>
+		<joint type="HandRight">
+			<x>290</x>
+			<y>250</y>
+			<z>2,381126</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>264</x>
+			<y>248</y>
+			<z>2,456789</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>331</y>
+			<z>2,890722</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>282</x>
+			<y>386</y>
+			<z>3,183411</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>282</x>
+			<y>398</y>
+			<z>3,203549</z>
+		</joint>
+		<joint type="HipRight">
+			<x>298</x>
+			<y>247</y>
+			<z>2,476548</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>312</x>
+			<y>333</y>
+			<z>2,874154</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>386</y>
+			<z>3,172323</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>402</y>
+			<z>3,198954</z>
+		</joint>
+	</frame>
+	<frame no="668">
+		<joint type="HipCenter">
+			<x>282</x>
+			<y>232</y>
+			<z>2,458394</z>
+		</joint>
+		<joint type="Spine">
+			<x>281</x>
+			<y>218</y>
+			<z>2,447785</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>278</x>
+			<y>147</y>
+			<z>2,410362</z>
+		</joint>
+		<joint type="Head">
+			<x>272</x>
+			<y>104</y>
+			<z>2,292786</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>241</x>
+			<y>170</y>
+			<z>2,367914</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>237</x>
+			<y>218</y>
+			<z>2,375648</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>256</x>
+			<y>261</y>
+			<z>2,35387</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>295</x>
+			<y>235</y>
+			<z>2,349554</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>314</x>
+			<y>166</y>
+			<z>2,421418</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>333</x>
+			<y>221</y>
+			<z>2,477083</z>
+		</joint>
+		<joint type="WristRight">
+			<x>329</x>
+			<y>269</y>
+			<z>2,479855</z>
+		</joint>
+		<joint type="HandRight">
+			<x>310</x>
+			<y>270</y>
+			<z>2,487772</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>265</x>
+			<y>249</y>
+			<z>2,454566</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>273</x>
+			<y>331</y>
+			<z>2,888257</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>385</y>
+			<z>3,184119</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>282</x>
+			<y>398</y>
+			<z>3,20681</z>
+		</joint>
+		<joint type="HipRight">
+			<x>302</x>
+			<y>248</y>
+			<z>2,476593</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>313</x>
+			<y>333</y>
+			<z>2,871596</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>386</y>
+			<z>3,170172</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,177727</z>
+		</joint>
+	</frame>
+	<frame no="669">
+		<joint type="HipCenter">
+			<x>286</x>
+			<y>232</y>
+			<z>2,464979</z>
+		</joint>
+		<joint type="Spine">
+			<x>285</x>
+			<y>218</y>
+			<z>2,452266</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>280</x>
+			<y>146</y>
+			<z>2,410386</z>
+		</joint>
+		<joint type="Head">
+			<x>274</x>
+			<y>103</y>
+			<z>2,295236</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>242</x>
+			<y>170</y>
+			<z>2,376912</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>234</x>
+			<y>217</y>
+			<z>2,412695</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>266</y>
+			<z>2,389711</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>278</x>
+			<y>253</y>
+			<z>2,402082</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>317</x>
+			<y>167</y>
+			<z>2,427439</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>339</x>
+			<y>223</y>
+			<z>2,53406</z>
+		</joint>
+		<joint type="WristRight">
+			<x>344</x>
+			<y>270</y>
+			<z>2,568479</z>
+		</joint>
+		<joint type="HandRight">
+			<x>325</x>
+			<y>280</y>
+			<z>2,577634</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>270</x>
+			<y>250</y>
+			<z>2,467059</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>275</x>
+			<y>329</y>
+			<z>2,86758</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>382</y>
+			<z>3,169348</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>395</y>
+			<z>3,121719</z>
+		</joint>
+		<joint type="HipRight">
+			<x>306</x>
+			<y>248</y>
+			<z>2,482465</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>315</x>
+			<y>329</y>
+			<z>2,850621</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>382</y>
+			<z>3,151786</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>396</y>
+			<z>3,101891</z>
+		</joint>
+	</frame>
+	<frame no="670">
+		<joint type="HipCenter">
+			<x>288</x>
+			<y>232</y>
+			<z>2,469422</z>
+		</joint>
+		<joint type="Spine">
+			<x>287</x>
+			<y>218</y>
+			<z>2,455635</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>283</x>
+			<y>145</y>
+			<z>2,408434</z>
+		</joint>
+		<joint type="Head">
+			<x>277</x>
+			<y>103</y>
+			<z>2,295738</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>243</x>
+			<y>170</y>
+			<z>2,384819</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>231</x>
+			<y>218</y>
+			<z>2,456978</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>236</x>
+			<y>267</y>
+			<z>2,473343</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>259</x>
+			<y>265</y>
+			<z>2,485159</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>320</x>
+			<y>168</y>
+			<z>2,433395</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>347</x>
+			<y>220</y>
+			<z>2,582025</z>
+		</joint>
+		<joint type="WristRight">
+			<x>353</x>
+			<y>264</y>
+			<z>2,637184</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>280</y>
+			<z>2,661926</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>271</x>
+			<y>250</y>
+			<z>2,473041</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>276</x>
+			<y>328</y>
+			<z>2,855143</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>381</y>
+			<z>3,160164</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>394</y>
+			<z>3,098739</z>
+		</joint>
+		<joint type="HipRight">
+			<x>307</x>
+			<y>248</y>
+			<z>2,488443</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>316</x>
+			<y>330</y>
+			<z>2,850808</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>382</y>
+			<z>3,152295</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>398</y>
+			<z>3,106647</z>
+		</joint>
+	</frame>
+	<frame no="671">
+		<joint type="HipCenter">
+			<x>289</x>
+			<y>232</y>
+			<z>2,47242</z>
+		</joint>
+		<joint type="Spine">
+			<x>288</x>
+			<y>218</y>
+			<z>2,45797</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>286</x>
+			<y>145</y>
+			<z>2,404966</z>
+		</joint>
+		<joint type="Head">
+			<x>280</x>
+			<y>102</y>
+			<z>2,294377</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>244</x>
+			<y>170</y>
+			<z>2,391636</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>229</x>
+			<y>218</y>
+			<z>2,494059</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>232</x>
+			<y>265</y>
+			<z>2,54896</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>245</x>
+			<y>270</y>
+			<z>2,570811</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>322</x>
+			<y>168</y>
+			<z>2,437887</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>351</x>
+			<y>215</y>
+			<z>2,611972</z>
+		</joint>
+		<joint type="WristRight">
+			<x>359</x>
+			<y>256</y>
+			<z>2,699914</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>276</y>
+			<z>2,729842</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>272</x>
+			<y>250</y>
+			<z>2,47685</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>278</x>
+			<y>331</y>
+			<z>2,871146</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>383</y>
+			<z>3,174831</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,165325</z>
+		</joint>
+		<joint type="HipRight">
+			<x>308</x>
+			<y>248</y>
+			<z>2,492662</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>317</x>
+			<y>330</y>
+			<z>2,850544</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>383</y>
+			<z>3,153561</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>397</y>
+			<z>3,097915</z>
+		</joint>
+	</frame>
+	<frame no="672">
+		<joint type="HipCenter">
+			<x>290</x>
+			<y>232</y>
+			<z>2,474794</z>
+		</joint>
+		<joint type="Spine">
+			<x>289</x>
+			<y>218</y>
+			<z>2,45951</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>287</x>
+			<y>145</y>
+			<z>2,401175</z>
+		</joint>
+		<joint type="Head">
+			<x>283</x>
+			<y>102</y>
+			<z>2,291574</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>246</x>
+			<y>170</y>
+			<z>2,396836</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>228</x>
+			<y>216</y>
+			<z>2,524511</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>229</x>
+			<y>259</y>
+			<z>2,614165</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>237</x>
+			<y>266</y>
+			<z>2,633558</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>324</x>
+			<y>168</y>
+			<z>2,440903</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>355</x>
+			<y>209</y>
+			<z>2,637058</z>
+		</joint>
+		<joint type="WristRight">
+			<x>360</x>
+			<y>249</y>
+			<z>2,736112</z>
+		</joint>
+		<joint type="HandRight">
+			<x>352</x>
+			<y>261</y>
+			<z>2,774897</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>274</x>
+			<y>250</y>
+			<z>2,480372</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>279</x>
+			<y>331</y>
+			<z>2,873804</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>383</y>
+			<z>3,177532</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>284</x>
+			<y>400</y>
+			<z>3,194867</z>
+		</joint>
+		<joint type="HipRight">
+			<x>310</x>
+			<y>248</y>
+			<z>2,495745</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>317</x>
+			<y>330</y>
+			<z>2,849389</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>320</x>
+			<y>382</y>
+			<z>3,154212</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>397</y>
+			<z>3,09093</z>
+		</joint>
+	</frame>
+	<frame no="673">
+		<joint type="HipCenter">
+			<x>292</x>
+			<y>232</y>
+			<z>2,476775</z>
+		</joint>
+		<joint type="Spine">
+			<x>291</x>
+			<y>217</y>
+			<z>2,460592</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>289</x>
+			<y>145</y>
+			<z>2,397036</z>
+		</joint>
+		<joint type="Head">
+			<x>286</x>
+			<y>102</y>
+			<z>2,288626</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>248</x>
+			<y>169</y>
+			<z>2,401052</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>227</x>
+			<y>212</y>
+			<z>2,547925</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>231</x>
+			<y>253</y>
+			<z>2,652766</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>237</x>
+			<y>261</y>
+			<z>2,687489</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>327</x>
+			<y>167</y>
+			<z>2,442328</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>357</x>
+			<y>200</y>
+			<z>2,638272</z>
+		</joint>
+		<joint type="WristRight">
+			<x>358</x>
+			<y>238</y>
+			<z>2,753193</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>254</y>
+			<z>2,783757</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>276</x>
+			<y>249</y>
+			<z>2,483516</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>280</x>
+			<y>332</y>
+			<z>2,87673</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>384</y>
+			<z>3,179949</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,171507</z>
+		</joint>
+		<joint type="HipRight">
+			<x>311</x>
+			<y>248</y>
+			<z>2,498585</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>318</x>
+			<y>330</y>
+			<z>2,849146</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>382</y>
+			<z>3,155554</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>397</y>
+			<z>3,086386</z>
+		</joint>
+	</frame>
+	<frame no="674">
+		<joint type="HipCenter">
+			<x>294</x>
+			<y>231</y>
+			<z>2,479196</z>
+		</joint>
+		<joint type="Spine">
+			<x>293</x>
+			<y>217</y>
+			<z>2,461941</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>291</x>
+			<y>145</y>
+			<z>2,39354</z>
+		</joint>
+		<joint type="Head">
+			<x>287</x>
+			<y>103</y>
+			<z>2,285135</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>251</x>
+			<y>168</y>
+			<z>2,403351</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>228</x>
+			<y>207</y>
+			<z>2,561651</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>235</x>
+			<y>245</y>
+			<z>2,678546</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>236</x>
+			<y>258</y>
+			<z>2,720584</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>329</x>
+			<y>166</y>
+			<z>2,442849</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>196</y>
+			<z>2,64081</z>
+		</joint>
+		<joint type="WristRight">
+			<x>356</x>
+			<y>234</y>
+			<z>2,762388</z>
+		</joint>
+		<joint type="HandRight">
+			<x>352</x>
+			<y>247</y>
+			<z>2,794349</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>277</x>
+			<y>249</y>
+			<z>2,487324</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>280</x>
+			<y>333</y>
+			<z>2,880119</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>384</y>
+			<z>3,182446</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,180796</z>
+		</joint>
+		<joint type="HipRight">
+			<x>312</x>
+			<y>247</y>
+			<z>2,502473</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>318</x>
+			<y>331</y>
+			<z>2,853723</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>382</y>
+			<z>3,160233</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>397</y>
+			<z>3,088475</z>
+		</joint>
+	</frame>
+	<frame no="675">
+		<joint type="HipCenter">
+			<x>295</x>
+			<y>231</y>
+			<z>2,481248</z>
+		</joint>
+		<joint type="Spine">
+			<x>294</x>
+			<y>216</y>
+			<z>2,463196</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>292</x>
+			<y>145</y>
+			<z>2,390532</z>
+		</joint>
+		<joint type="Head">
+			<x>290</x>
+			<y>103</y>
+			<z>2,281857</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>252</x>
+			<y>167</y>
+			<z>2,404672</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>229</x>
+			<y>202</y>
+			<z>2,569079</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>236</x>
+			<y>240</y>
+			<z>2,695515</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>228</x>
+			<y>243</y>
+			<z>2,730633</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>166</y>
+			<z>2,442948</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>194</y>
+			<z>2,643752</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>230</y>
+			<z>2,77511</z>
+		</joint>
+		<joint type="HandRight">
+			<x>352</x>
+			<y>243</y>
+			<z>2,807208</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>279</x>
+			<y>248</y>
+			<z>2,490313</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>331</y>
+			<z>2,876262</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>384</y>
+			<z>3,173008</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,165285</z>
+		</joint>
+		<joint type="HipRight">
+			<x>313</x>
+			<y>247</y>
+			<z>2,505579</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>320</x>
+			<y>331</y>
+			<z>2,862911</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>382</y>
+			<z>3,167289</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>397</y>
+			<z>3,095522</z>
+		</joint>
+	</frame>
+	<frame no="676">
+		<joint type="HipCenter">
+			<x>296</x>
+			<y>230</y>
+			<z>2,483582</z>
+		</joint>
+		<joint type="Spine">
+			<x>296</x>
+			<y>216</y>
+			<z>2,464715</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>294</x>
+			<y>145</y>
+			<z>2,388202</z>
+		</joint>
+		<joint type="Head">
+			<x>292</x>
+			<y>103</y>
+			<z>2,279184</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>254</x>
+			<y>166</y>
+			<z>2,40572</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>230</x>
+			<y>200</y>
+			<z>2,575024</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>238</x>
+			<y>237</y>
+			<z>2,704893</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>248</x>
+			<y>242</y>
+			<z>2,745025</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>331</x>
+			<y>165</y>
+			<z>2,442828</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>193</y>
+			<z>2,645248</z>
+		</joint>
+		<joint type="WristRight">
+			<x>354</x>
+			<y>230</y>
+			<z>2,774131</z>
+		</joint>
+		<joint type="HandRight">
+			<x>353</x>
+			<y>241</y>
+			<z>2,819139</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>280</x>
+			<y>248</y>
+			<z>2,493885</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>332</y>
+			<z>2,884043</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>385</y>
+			<z>3,178413</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,18553</z>
+		</joint>
+		<joint type="HipRight">
+			<x>314</x>
+			<y>246</y>
+			<z>2,508991</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>321</x>
+			<y>331</y>
+			<z>2,877379</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,178444</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>399</y>
+			<z>3,183216</z>
+		</joint>
+	</frame>
+	<frame no="677">
+		<joint type="HipCenter">
+			<x>297</x>
+			<y>230</y>
+			<z>2,486835</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>215</y>
+			<z>2,466937</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>145</y>
+			<z>2,386384</z>
+		</joint>
+		<joint type="Head">
+			<x>294</x>
+			<y>103</y>
+			<z>2,276999</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>256</x>
+			<y>165</y>
+			<z>2,406115</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>232</x>
+			<y>195</y>
+			<z>2,570853</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>239</x>
+			<y>233</y>
+			<z>2,701691</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>248</x>
+			<y>242</y>
+			<z>2,748337</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>332</x>
+			<y>165</y>
+			<z>2,442489</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>191</y>
+			<z>2,648134</z>
+		</joint>
+		<joint type="WristRight">
+			<x>353</x>
+			<y>228</y>
+			<z>2,77073</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>250</y>
+			<z>2,8255</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>281</x>
+			<y>247</y>
+			<z>2,498486</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>282</x>
+			<y>332</y>
+			<z>2,887782</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>283</x>
+			<y>386</y>
+			<z>3,180782</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>399</y>
+			<z>3,191911</z>
+		</joint>
+		<joint type="HipRight">
+			<x>315</x>
+			<y>245</y>
+			<z>2,513774</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>322</x>
+			<y>332</y>
+			<z>2,886806</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>384</y>
+			<z>3,185776</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>399</y>
+			<z>3,202971</z>
+		</joint>
+	</frame>
+	<frame no="678">
+		<joint type="HipCenter">
+			<x>298</x>
+			<y>229</y>
+			<z>2,490222</z>
+		</joint>
+		<joint type="Spine">
+			<x>297</x>
+			<y>215</y>
+			<z>2,469489</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>295</x>
+			<y>145</y>
+			<z>2,385251</z>
+		</joint>
+		<joint type="Head">
+			<x>295</x>
+			<y>103</y>
+			<z>2,27556</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>257</x>
+			<y>164</y>
+			<z>2,406375</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>232</x>
+			<y>194</y>
+			<z>2,575644</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>240</x>
+			<y>232</y>
+			<z>2,708037</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>248</x>
+			<y>240</y>
+			<z>2,754915</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>333</x>
+			<y>164</y>
+			<z>2,442224</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>359</x>
+			<y>189</y>
+			<z>2,645971</z>
+		</joint>
+		<joint type="WristRight">
+			<x>354</x>
+			<y>227</y>
+			<z>2,771903</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>250</y>
+			<z>2,825929</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>282</x>
+			<y>246</y>
+			<z>2,502959</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>332</y>
+			<z>2,890196</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>386</y>
+			<z>3,182078</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,140281</z>
+		</joint>
+		<joint type="HipRight">
+			<x>316</x>
+			<y>245</y>
+			<z>2,518088</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>323</x>
+			<y>332</y>
+			<z>2,892182</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,190019</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,213563</z>
+		</joint>
+	</frame>
+	<frame no="679">
+		<joint type="HipCenter">
+			<x>299</x>
+			<y>229</y>
+			<z>2,492998</z>
+		</joint>
+		<joint type="Spine">
+			<x>298</x>
+			<y>215</y>
+			<z>2,471671</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>296</x>
+			<y>145</y>
+			<z>2,384496</z>
+		</joint>
+		<joint type="Head">
+			<x>296</x>
+			<y>103</y>
+			<z>2,274533</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>258</x>
+			<y>163</y>
+			<z>2,406797</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>233</x>
+			<y>193</y>
+			<z>2,578099</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>241</x>
+			<y>230</y>
+			<z>2,710891</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>251</x>
+			<y>239</y>
+			<z>2,761037</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>334</x>
+			<y>164</y>
+			<z>2,441951</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>360</x>
+			<y>188</y>
+			<z>2,644187</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>226</y>
+			<z>2,77008</z>
+		</joint>
+		<joint type="HandRight">
+			<x>345</x>
+			<y>250</y>
+			<z>2,81328</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>283</x>
+			<y>245</y>
+			<z>2,506471</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>333</y>
+			<z>2,892071</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>386</y>
+			<z>3,182976</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,166252</z>
+		</joint>
+		<joint type="HipRight">
+			<x>316</x>
+			<y>244</y>
+			<z>2,521442</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>332</y>
+			<z>2,89606</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,19314</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,220457</z>
+		</joint>
+	</frame>
+	<frame no="680">
+		<joint type="HipCenter">
+			<x>299</x>
+			<y>228</y>
+			<z>2,495374</z>
+		</joint>
+		<joint type="Spine">
+			<x>299</x>
+			<y>214</y>
+			<z>2,473652</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>297</x>
+			<y>145</y>
+			<z>2,384098</z>
+		</joint>
+		<joint type="Head">
+			<x>297</x>
+			<y>103</y>
+			<z>2,273744</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>163</y>
+			<z>2,407247</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>234</x>
+			<y>191</y>
+			<z>2,579962</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>242</x>
+			<y>229</y>
+			<z>2,713524</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>251</x>
+			<y>240</y>
+			<z>2,765078</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>335</x>
+			<y>163</y>
+			<z>2,441605</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>187</y>
+			<z>2,64187</z>
+		</joint>
+		<joint type="WristRight">
+			<x>356</x>
+			<y>225</y>
+			<z>2,766176</z>
+		</joint>
+		<joint type="HandRight">
+			<x>345</x>
+			<y>250</y>
+			<z>2,806987</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>284</x>
+			<y>245</y>
+			<z>2,509449</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>333</y>
+			<z>2,893606</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,183555</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,185091</z>
+		</joint>
+		<joint type="HipRight">
+			<x>316</x>
+			<y>244</y>
+			<z>2,524041</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>332</y>
+			<z>2,897977</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,194739</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,225956</z>
+		</joint>
+	</frame>
+	<frame no="681">
+		<joint type="HipCenter">
+			<x>300</x>
+			<y>228</y>
+			<z>2,497406</z>
+		</joint>
+		<joint type="Spine">
+			<x>300</x>
+			<y>214</y>
+			<z>2,475404</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>298</x>
+			<y>145</y>
+			<z>2,383977</z>
+		</joint>
+		<joint type="Head">
+			<x>298</x>
+			<y>103</y>
+			<z>2,273162</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>260</x>
+			<y>163</y>
+			<z>2,407864</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>235</x>
+			<y>192</y>
+			<z>2,58744</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>243</x>
+			<y>229</y>
+			<z>2,721226</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,770485</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>336</x>
+			<y>163</y>
+			<z>2,44126</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>187</y>
+			<z>2,63975</z>
+		</joint>
+		<joint type="WristRight">
+			<x>357</x>
+			<y>225</y>
+			<z>2,768919</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>250</y>
+			<z>2,809868</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>284</x>
+			<y>245</y>
+			<z>2,512013</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>333</y>
+			<z>2,894972</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,183975</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,191004</z>
+		</joint>
+		<joint type="HipRight">
+			<x>317</x>
+			<y>243</y>
+			<z>2,526112</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>332</y>
+			<z>2,898502</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,195354</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,227979</z>
+		</joint>
+	</frame>
+	<frame no="682">
+		<joint type="HipCenter">
+			<x>301</x>
+			<y>228</y>
+			<z>2,499056</z>
+		</joint>
+		<joint type="Spine">
+			<x>300</x>
+			<y>214</y>
+			<z>2,47684</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>299</x>
+			<y>145</y>
+			<z>2,383964</z>
+		</joint>
+		<joint type="Head">
+			<x>299</x>
+			<y>103</y>
+			<z>2,272676</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>261</x>
+			<y>163</y>
+			<z>2,40863</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>238</x>
+			<y>194</y>
+			<z>2,599669</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>244</x>
+			<y>231</y>
+			<z>2,733045</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,779738</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>337</x>
+			<y>163</y>
+			<z>2,440935</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>187</y>
+			<z>2,637659</z>
+		</joint>
+		<joint type="WristRight">
+			<x>357</x>
+			<y>224</y>
+			<z>2,769169</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>245</y>
+			<z>2,815309</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>285</x>
+			<y>244</y>
+			<z>2,514007</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>333</y>
+			<z>2,896156</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184391</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,194496</z>
+		</joint>
+		<joint type="HipRight">
+			<x>317</x>
+			<y>243</y>
+			<z>2,527825</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>332</y>
+			<z>2,897485</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,194948</z>
+		</joint>
+		<joint type="FootRight">
+			<x>321</x>
+			<y>400</y>
+			<z>3,228174</z>
+		</joint>
+	</frame>
+	<frame no="683">
+		<joint type="HipCenter">
+			<x>301</x>
+			<y>228</y>
+			<z>2,500492</z>
+		</joint>
+		<joint type="Spine">
+			<x>301</x>
+			<y>214</y>
+			<z>2,478151</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>300</x>
+			<y>145</y>
+			<z>2,384353</z>
+		</joint>
+		<joint type="Head">
+			<x>300</x>
+			<y>103</y>
+			<z>2,272212</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>262</x>
+			<y>163</y>
+			<z>2,409362</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>239</x>
+			<y>194</y>
+			<z>2,604355</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>245</x>
+			<y>230</y>
+			<z>2,740569</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,786804</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>338</x>
+			<y>162</y>
+			<z>2,440555</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>362</x>
+			<y>187</y>
+			<z>2,635424</z>
+		</joint>
+		<joint type="WristRight">
+			<x>357</x>
+			<y>224</y>
+			<z>2,768502</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>245</y>
+			<z>2,812951</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>285</x>
+			<y>244</y>
+			<z>2,515635</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>283</x>
+			<y>333</y>
+			<z>2,897119</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184726</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,197098</z>
+		</joint>
+		<joint type="HipRight">
+			<x>318</x>
+			<y>243</y>
+			<z>2,529264</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,89568</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,194108</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>399</y>
+			<z>3,191965</z>
+		</joint>
+	</frame>
+	<frame no="684">
+		<joint type="HipCenter">
+			<x>302</x>
+			<y>227</y>
+			<z>2,501737</z>
+		</joint>
+		<joint type="Spine">
+			<x>301</x>
+			<y>214</y>
+			<z>2,479326</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>301</x>
+			<y>145</y>
+			<z>2,384915</z>
+		</joint>
+		<joint type="Head">
+			<x>301</x>
+			<y>103</y>
+			<z>2,271828</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>262</x>
+			<y>162</y>
+			<z>2,410101</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>241</x>
+			<y>194</y>
+			<z>2,606532</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>246</x>
+			<y>230</y>
+			<z>2,746499</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,792478</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>338</x>
+			<y>162</y>
+			<z>2,440115</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>188</y>
+			<z>2,636456</z>
+		</joint>
+		<joint type="WristRight">
+			<x>356</x>
+			<y>224</y>
+			<z>2,771525</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>245</y>
+			<z>2,819563</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>286</x>
+			<y>244</y>
+			<z>2,517017</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>333</y>
+			<z>2,897902</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184976</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,199133</z>
+		</joint>
+		<joint type="HipRight">
+			<x>318</x>
+			<y>243</y>
+			<z>2,530442</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,892511</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>322</x>
+			<y>384</y>
+			<z>3,192046</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>399</y>
+			<z>3,135564</z>
+		</joint>
+	</frame>
+	<frame no="685">
+		<joint type="HipCenter">
+			<x>302</x>
+			<y>227</y>
+			<z>2,5028</z>
+		</joint>
+		<joint type="Spine">
+			<x>302</x>
+			<y>214</y>
+			<z>2,480325</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>302</x>
+			<y>145</y>
+			<z>2,38539</z>
+		</joint>
+		<joint type="Head">
+			<x>302</x>
+			<y>103</y>
+			<z>2,271523</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>263</x>
+			<y>162</y>
+			<z>2,410834</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>243</x>
+			<y>194</y>
+			<z>2,607055</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>247</x>
+			<y>229</y>
+			<z>2,751087</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,798814</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>339</x>
+			<y>162</y>
+			<z>2,439717</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>189</y>
+			<z>2,638893</z>
+		</joint>
+		<joint type="WristRight">
+			<x>356</x>
+			<y>225</y>
+			<z>2,775861</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>245</y>
+			<z>2,828277</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>286</x>
+			<y>244</y>
+			<z>2,518193</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>333</y>
+			<z>2,898517</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,18526</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,20084</z>
+		</joint>
+		<joint type="HipRight">
+			<x>318</x>
+			<y>243</y>
+			<z>2,531435</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,88966</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>384</y>
+			<z>3,189938</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,122757</z>
+		</joint>
+	</frame>
+	<frame no="686">
+		<joint type="HipCenter">
+			<x>303</x>
+			<y>227</y>
+			<z>2,503679</z>
+		</joint>
+		<joint type="Spine">
+			<x>302</x>
+			<y>214</y>
+			<z>2,481142</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>302</x>
+			<y>145</y>
+			<z>2,385801</z>
+		</joint>
+		<joint type="Head">
+			<x>302</x>
+			<y>103</y>
+			<z>2,271267</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>264</x>
+			<y>162</y>
+			<z>2,411467</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>244</x>
+			<y>194</y>
+			<z>2,607028</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>248</x>
+			<y>228</y>
+			<z>2,754356</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>252</x>
+			<y>239</y>
+			<z>2,802966</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,43935</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>361</x>
+			<y>190</y>
+			<z>2,640589</z>
+		</joint>
+		<joint type="WristRight">
+			<x>356</x>
+			<y>225</y>
+			<z>2,779644</z>
+		</joint>
+		<joint type="HandRight">
+			<x>350</x>
+			<y>240</y>
+			<z>2,835009</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>287</x>
+			<y>244</y>
+			<z>2,519173</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>333</y>
+			<z>2,898969</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,185433</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,202353</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>242</y>
+			<z>2,532274</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,88706</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>384</y>
+			<z>3,187999</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,115782</z>
+		</joint>
+	</frame>
+	<frame no="687">
+		<joint type="HipCenter">
+			<x>303</x>
+			<y>227</y>
+			<z>2,504392</z>
+		</joint>
+		<joint type="Spine">
+			<x>303</x>
+			<y>214</y>
+			<z>2,481807</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>303</x>
+			<y>145</y>
+			<z>2,38613</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,271041</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>265</x>
+			<y>162</y>
+			<z>2,411956</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>246</x>
+			<y>195</y>
+			<z>2,611427</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>248</x>
+			<y>229</y>
+			<z>2,759153</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>256</x>
+			<y>239</y>
+			<z>2,808307</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,438931</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>359</x>
+			<y>193</y>
+			<z>2,645081</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>227</y>
+			<z>2,788816</z>
+		</joint>
+		<joint type="HandRight">
+			<x>345</x>
+			<y>240</y>
+			<z>2,845533</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>287</x>
+			<y>244</y>
+			<z>2,519963</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>333</y>
+			<z>2,899246</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,185434</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,203516</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>242</y>
+			<z>2,532923</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,883576</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,184906</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,110014</z>
+		</joint>
+	</frame>
+	<frame no="688">
+		<joint type="HipCenter">
+			<x>303</x>
+			<y>227</y>
+			<z>2,504924</z>
+		</joint>
+		<joint type="Spine">
+			<x>303</x>
+			<y>214</y>
+			<z>2,482322</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,386348</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,270798</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>265</x>
+			<y>162</y>
+			<z>2,412281</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>247</x>
+			<y>195</y>
+			<z>2,612684</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>249</x>
+			<y>229</y>
+			<z>2,760705</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>260</x>
+			<y>239</y>
+			<z>2,809694</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,438521</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>359</x>
+			<y>195</y>
+			<z>2,649223</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>228</y>
+			<z>2,797346</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>240</y>
+			<z>2,857883</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>287</x>
+			<y>244</y>
+			<z>2,520524</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,899393</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184999</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>282</x>
+			<y>400</y>
+			<z>3,204197</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>242</y>
+			<z>2,533329</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,880507</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,181906</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,105232</z>
+		</joint>
+	</frame>
+	<frame no="689">
+		<joint type="HipCenter">
+			<x>304</x>
+			<y>227</y>
+			<z>2,505265</z>
+		</joint>
+		<joint type="Spine">
+			<x>304</x>
+			<y>214</y>
+			<z>2,482695</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,386518</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,270578</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>266</x>
+			<y>162</y>
+			<z>2,412501</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>248</x>
+			<y>195</y>
+			<z>2,610458</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>249</x>
+			<y>229</y>
+			<z>2,757723</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>260</x>
+			<y>239</y>
+			<z>2,808141</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,438137</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>359</x>
+			<y>197</y>
+			<z>2,653308</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>230</y>
+			<z>2,80249</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>240</y>
+			<z>2,865116</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>244</y>
+			<z>2,520835</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,899495</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184647</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>282</x>
+			<y>400</y>
+			<z>3,20465</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>242</y>
+			<z>2,533427</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,878462</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,180031</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,101265</z>
+		</joint>
+	</frame>
+	<frame no="690">
+		<joint type="HipCenter">
+			<x>304</x>
+			<y>227</y>
+			<z>2,505403</z>
+		</joint>
+		<joint type="Spine">
+			<x>304</x>
+			<y>214</y>
+			<z>2,482922</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,386658</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,270399</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>266</x>
+			<y>162</y>
+			<z>2,41262</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>248</x>
+			<y>195</y>
+			<z>2,607462</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>249</x>
+			<y>229</y>
+			<z>2,750847</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>260</x>
+			<y>239</y>
+			<z>2,805355</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,437743</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>198</y>
+			<z>2,655658</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>231</y>
+			<z>2,805294</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>240</y>
+			<z>2,868963</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>244</y>
+			<z>2,520865</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,899418</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184402</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,172743</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>243</y>
+			<z>2,533214</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,876719</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,178489</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,098191</z>
+		</joint>
+	</frame>
+	<frame no="691">
+		<joint type="HipCenter">
+			<x>304</x>
+			<y>228</y>
+			<z>2,505276</z>
+		</joint>
+		<joint type="Spine">
+			<x>304</x>
+			<y>214</y>
+			<z>2,482963</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,386797</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,270266</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>266</x>
+			<y>163</y>
+			<z>2,41265</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>248</x>
+			<y>195</y>
+			<z>2,603913</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>249</x>
+			<y>230</y>
+			<z>2,742335</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>260</x>
+			<y>239</y>
+			<z>2,800212</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>162</y>
+			<z>2,437335</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>199</y>
+			<z>2,653947</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>231</y>
+			<z>2,804461</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>240</y>
+			<z>2,867547</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>244</y>
+			<z>2,520156</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,899146</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,184133</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,181415</z>
+		</joint>
+		<joint type="HipRight">
+			<x>320</x>
+			<y>243</y>
+			<z>2,53282</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,875655</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,17753</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,096708</z>
+		</joint>
+	</frame>
+	<frame no="692">
+		<joint type="HipCenter">
+			<x>304</x>
+			<y>228</y>
+			<z>2,504795</z>
+		</joint>
+		<joint type="Spine">
+			<x>304</x>
+			<y>214</y>
+			<z>2,482739</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,386963</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,27017</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>266</x>
+			<y>163</y>
+			<z>2,41263</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>245</x>
+			<y>199</y>
+			<z>2,607865</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>249</x>
+			<y>234</y>
+			<z>2,744128</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>260</x>
+			<y>239</y>
+			<z>2,800361</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>341</x>
+			<y>162</y>
+			<z>2,436896</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>358</x>
+			<y>199</y>
+			<z>2,648716</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>232</y>
+			<z>2,793797</z>
+		</joint>
+		<joint type="HandRight">
+			<x>340</x>
+			<y>240</y>
+			<z>2,856769</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>244</y>
+			<z>2,518935</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,898254</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,183573</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>283</x>
+			<y>400</y>
+			<z>3,185203</z>
+		</joint>
+		<joint type="HipRight">
+			<x>320</x>
+			<y>243</y>
+			<z>2,532021</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,874823</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,176806</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,096583</z>
+		</joint>
+	</frame>
+	<frame no="693">
+		<joint type="HipCenter">
+			<x>304</x>
+			<y>228</y>
+			<z>2,503604</z>
+		</joint>
+		<joint type="Spine">
+			<x>304</x>
+			<y>214</y>
+			<z>2,481938</z>
+		</joint>
+		<joint type="ShoulderCenter">
+			<x>304</x>
+			<y>145</y>
+			<z>2,387236</z>
+		</joint>
+		<joint type="Head">
+			<x>303</x>
+			<y>103</y>
+			<z>2,270083</z>
+		</joint>
+		<joint type="ShoulderLeft">
+			<x>266</x>
+			<y>163</y>
+			<z>2,412598</z>
+		</joint>
+		<joint type="ElbowLeft">
+			<x>243</x>
+			<y>200</y>
+			<z>2,600534</z>
+		</joint>
+		<joint type="WristLeft">
+			<x>248</x>
+			<y>236</y>
+			<z>2,733934</z>
+		</joint>
+		<joint type="HandLeft">
+			<x>250</x>
+			<y>245</y>
+			<z>2,79308</z>
+		</joint>
+		<joint type="ShoulderRight">
+			<x>340</x>
+			<y>163</y>
+			<z>2,436556</z>
+		</joint>
+		<joint type="ElbowRight">
+			<x>357</x>
+			<y>200</y>
+			<z>2,640949</z>
+		</joint>
+		<joint type="WristRight">
+			<x>355</x>
+			<y>233</y>
+			<z>2,785683</z>
+		</joint>
+		<joint type="HandRight">
+			<x>345</x>
+			<y>250</y>
+			<z>2,842177</z>
+		</joint>
+		<joint type="HipLeft">
+			<x>288</x>
+			<y>244</y>
+			<z>2,517056</z>
+		</joint>
+		<joint type="KneeLeft">
+			<x>284</x>
+			<y>332</y>
+			<z>2,896992</z>
+		</joint>
+		<joint type="AnkleLeft">
+			<x>284</x>
+			<y>387</y>
+			<z>3,182838</z>
+		</joint>
+		<joint type="FootLeft">
+			<x>282</x>
+			<y>400</y>
+			<z>3,187382</z>
+		</joint>
+		<joint type="HipRight">
+			<x>319</x>
+			<y>243</y>
+			<z>2,530246</z>
+		</joint>
+		<joint type="KneeRight">
+			<x>324</x>
+			<y>331</y>
+			<z>2,873736</z>
+		</joint>
+		<joint type="AnkleRight">
+			<x>321</x>
+			<y>383</y>
+			<z>3,175955</z>
+		</joint>
+		<joint type="FootRight">
+			<x>322</x>
+			<y>398</y>
+			<z>3,096211</z>
+		</joint>
+	</frame>
+</skeletondata>
